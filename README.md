@@ -1,4 +1,4 @@
-# Land Stewardship and Development Behaviors under an Ecological-Impact Weighted Land Value Tax Scheme: A Proof-of-Concept Agent-Based Model
+# Land Stewardship and Development Behaviors under an Ecological-Impact-Weighted Land Value Tax Scheme: A Proof-of-Concept Agent-Based Model
 
 This repository contains the source code for the agent-based model.
 
